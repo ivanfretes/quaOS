@@ -1,1 +1,3 @@
-## qua OS es un fork del sistema operativo UNIX 
+## quaOS, a linux micro distribution for testing core
+Based on: Tiny Core Linux
+My object its interiorized the kernel
